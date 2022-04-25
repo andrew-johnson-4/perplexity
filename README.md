@@ -1,5 +1,5 @@
 # Perplexity
-The Perplexity language is a notational semantic for documenting neural networks through diagrams
+The Perplexity language is a notational semantic for documenting neural networks through diagrams.
 
 # Scope
 This visual language was created to help document neural networks.
