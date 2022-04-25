@@ -1,24 +1,24 @@
 | name       | descriptive name                   |	denotation    | definition
 |------------|------------------------------------|---------------|--------------------------
-| black      | self                               | black circle  | a
-| black	     | self                               | black line    |	a(b)
-| white	     | other                              | white circle  |	B
-| white	     | other                              | white line    |	A->B
-| yellow     | join                               | yellow circle |	a: A; b: A
-| yellow     | join                               | yellow line   |	f: A->C; f: B->C
-| orange     | split                              | orange circle |	a: A; a: B
-| orange     | split                              | orange line   |	f: A -> B; f: A->C
-| red        | more                               | red circle    |	≥
-| red        | more                               | red line      |	≥
-| blue       | less                               | blue circle   |	≤
-| blue	     | less                               | blue line	    | ≤
-| purple     | up                                 | purple circle |	+
-| purple     | up                                 | purple line   |	+
-| green	     | down                               | green circle  |	-
-| green	     | down                               | green line    |	-
-| pink	     | parallel                           | pink circle   |	\|\|
-| pink	     | parallel                           | pink line     |	\|\|
-| grey	     | perpendicular                      | grey circle   |	⊥
-| grey	     | perpendicular                      | grey line     |	⊥
-| monad	     | "the distance to self is not zero" | H             | <img src="/img/monad.png" alt="monad" style="height:1em;"/>
-| inequality | triangle inequality                | ≠             | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>
+| black      | self                               | ⚫                                                                      | a
+| black	     | self                               | ⚫                                                                      | a(b)
+| white      | other                              | ⚪	                                                                     | B
+| white	     | other                              | ⚪	                                                                     | A->B
+| yellow     | join                               | 🟡                                                                      |	a: A; b: A
+| yellow     | join                               | 🟡                                                                      |	f: A->C; f: B->C
+| orange     | split                              | 🟠                                                                      |	a: A; a: B
+| orange     | split                              | 🟠                                                                      |	f: A -> B; f: A->C
+| red        | more                               | 🔴                                                                      |	≥
+| red        | more                               | 🔴                                                                      |	≥
+| blue       | less                               | 🔵                                                                      |	≤
+| blue	     | less                               | 🔵	                                                                    | ≤
+| purple     | up                                 | 🟣                                                                      |	+
+| purple     | up                                 | 🟣                                                                      |	+
+| green	     | down                               | 🟢                                                                      |	-
+| green	     | down                               | 🟢                                                                      |	-
+| pink	     | parallel                           | <img src="/img/pink_circle.png" alt="pink circle" style="height:1em;"/> |	\|\|
+| pink	     | parallel                           | <img src="/img/pink_circle.png" alt="pink circle" style="height:1em;"/> |	\|\|
+| grey	     | perpendicular                      | <img src="/img/grey_circle.png" alt="grey circle" style="height:1em;"/>                                                          |	⊥
+| grey	     | perpendicular                      | <img src="/img/grey_circle.png" alt="grey circle" style="height:1em;"/>                                                               |	⊥
+| monad	     | "the distance to self is not zero" | H                                                                       | <img src="/img/monad.png" alt="monad" style="height:1em;"/>
+| inequality | triangle inequality                | ≠                                                                       | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>
