@@ -1,24 +1,24 @@
 | name       | descriptive name                   |	denotation    | definition
 |------------|------------------------------------|---------------|--------------------------
-| black      | self                               | ⚫                                                                      | a
-| black	     | self                               | ⚫                                                                      | a(b)
-| white      | other                              | ⚪	                                                                     | B
-| white	     | other                              | ⚪	                                                                     | A->B
-| yellow     | join                               | 🟡                                                                      |	a: A; b: A
-| yellow     | join                               | 🟡                                                                      |	f: A->C; f: B->C
-| orange     | split                              | 🟠                                                                      |	a: A; a: B
-| orange     | split                              | 🟠                                                                      |	f: A -> B; f: A->C
-| red        | more                               | 🔴                                                                      |	≥
-| red        | more                               | 🔴                                                                      |	≥
-| blue       | less                               | 🔵                                                                      |	≤
-| blue	     | less                               | 🔵	                                                                    | ≤
-| purple     | up                                 | 🟣                                                                      |	+
-| purple     | up                                 | 🟣                                                                      |	+
-| green	     | down                               | 🟢                                                                      |	-
-| green	     | down                               | 🟢                                                                      |	-
-| pink	     | parallel                           | <img src="/img/pink_circle.png" alt="pink circle" style="height:1em;"/> |	\|\|
-| pink	     | parallel                           | <img src="/img/pink_circle.png" alt="pink circle" style="height:1em;"/> |	\|\|
-| grey	     | perpendicular                      | <img src="/img/grey_circle.png" alt="grey circle" style="height:1em;"/>                                                          |	⊥
-| grey	     | perpendicular                      | <img src="/img/grey_circle.png" alt="grey circle" style="height:1em;"/>                                                               |	⊥
-| monad	     | "the distance to self is not zero" | H                                                                       | <img src="/img/monad.png" alt="monad" style="height:1em;"/>
-| inequality | triangle inequality                | ≠                                                                       | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>
+| black      | self                               | <img src="/img/black_circle.png" alt="black circle" style="height:1em;"/>   | a
+| black	     | self                               | <img src="/img/black_circle.png" alt="black circle" style="height:1em;"/>   | a(b)
+| white      | other                              | <img src="/img/white_circle.png" alt="white circle" style="height:1em;"/>   | B
+| white	     | other                              | <img src="/img/white_circle.png" alt="white circle" style="height:1em;"/>   | A->B
+| yellow     | join                               | <img src="/img/yellow_circle.png" alt="yellow circle" style="height:1em;"/> |	a: A; b: A
+| yellow     | join                               | <img src="/img/yellow_circle.png" alt="yellow circle" style="height:1em;"/> |	f: A->C; f: B->C
+| orange     | split                              | <img src="/img/orange_circle.png" alt="orange circle" style="height:1em;"/> |	a: A; a: B
+| orange     | split                              | <img src="/img/orange_circle.png" alt="orange circle" style="height:1em;"/> |	f: A -> B; f: A->C
+| red        | more                               | <img src="/img/red_circle.png" alt="red circle" style="height:1em;"/>       |	≥
+| red        | more                               | <img src="/img/red_circle.png" alt="red circle" style="height:1em;"/>       |	≥
+| blue       | less                               | <img src="/img/blue_circle.png" alt="blue circle" style="height:1em;"/>     |	≤
+| blue	     | less                               | <img src="/img/blue_circle.png" alt="blue circle" style="height:1em;"/>     | ≤
+| purple     | up                                 | <img src="/img/purple_circle.png" alt="purple circle" style="height:1em;"/> |	+
+| purple     | up                                 | <img src="/img/purple_circle.png" alt="purple circle" style="height:1em;"/> |	+
+| green	     | down                               | <img src="/img/green_circle.png" alt="green circle" style="height:1em;"/>   |	-
+| green	     | down                               | <img src="/img/green_circle.png" alt="green circle" style="height:1em;"/>   |	-
+| pink	     | parallel                           | <img src="/img/pink_circle.png" alt="pink circle" style="height:1em;"/>     |	\|\|
+| pink	     | parallel                           | <img src="/img/pink_circle.png" alt="pink circle" style="height:1em;"/>     |	\|\|
+| grey	     | perpendicular                      | <img src="/img/grey_circle.png" alt="grey circle" style="height:1em;"/>     |	⊥
+| grey	     | perpendicular                      | <img src="/img/grey_circle.png" alt="grey circle" style="height:1em;"/>     |	⊥
+| monad	     | "the distance to self is not zero" | H                                                                           | <img src="/img/monad.png" alt="monad" style="height:1em;"/>
+| inequality | triangle inequality                | ≠                                                                           | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>
