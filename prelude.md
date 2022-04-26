@@ -4,8 +4,8 @@
 |------------|------------------------------------|---------------|--------------------------
 | black      | self                               | <img src="/img/black_circle.png" title="black circle" style="height:1em;"/>   | a
 | black	     | self                               | <img src="/img/black_line.png" title="black line" style="height:1em;"/>   | a(b)
-| white      | other                              | <img src="/img/white_circle.png" title="white circle" style="height:1em;"/>   | B
-| white	     | other                              | <img src="/img/white_line.png" title="white line" style="height:1em;"/>   | A->B
+| white      | meta                               | <img src="/img/white_circle.png" title="white circle" style="height:1em;"/>   | B
+| white	     | meta                               | <img src="/img/white_line.png" title="white line" style="height:1em;"/>   | A->B
 | yellow     | join                               | <img src="/img/yellow_circle.png" title="yellow circle" style="height:1em;"/> |	let a: A; let b: A
 | yellow     | join                               | <img src="/img/yellow_line.png" title="yellow line" style="height:1em;"/> |	let f: A->C; let f: B->C
 | orange     | split                              | <img src="/img/orange_circle.png" title="orange circle" style="height:1em;"/> |	let a: A; let a: B
