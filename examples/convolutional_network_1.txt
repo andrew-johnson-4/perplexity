@@ -1,0 +1,13 @@
+/* this describes the neural network from a tensorflow cnn example:
+   https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/convolutional_network.ipynb */
+   
+reshape : [28][28]
+conv2D : [32] + kernel_size=5 + relu
+maxPool2D : [2] + strides=2
+conv2D : [64] + kernel_size=3 + relu
+maxPool2D : [2] + strides=2
+flatten
+dense : [1024]
+dropout : rate=0.5
+dense : [num_classes]
+softmax
