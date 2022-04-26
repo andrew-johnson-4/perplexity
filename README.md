@@ -1,5 +1,5 @@
 # Perplexity 😵
-The Perplexity 😵 language is a notational semantic for documenting Neural Networks through diagrams.
+The Perplexity 😵 language is a notational semantic for documenting neural networks through diagrams.
 
 # Scope
 This visual language was created to help document neural networks.
@@ -14,4 +14,4 @@ Any file, textual or visual, defines a substitution rule according to its filena
 For example, a diagram "helpful.png" may be referred to as "helpful" in other textual language documentation.
 
 # Prelude
-The Perplexity 😵 language includes an *[optional prelude](/prelude.md)* that defines common Neural Network concepts.
+The Perplexity 😵 language includes an *[optional prelude](/prelude.md)* that defines common neural network concepts.
