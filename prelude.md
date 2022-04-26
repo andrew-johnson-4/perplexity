@@ -20,5 +20,5 @@
 | pink	     | parallel                           | <img src="/img/pink_circle.png" alt="pink circle" style="height:1em;"/>     |	\|\|
 | grey	     | perpendicular                      | <img src="/img/grey_circle.png" alt="grey circle" style="height:1em;"/>     |	⊥
 | grey	     | perpendicular                      | <img src="/img/grey_circle.png" alt="grey circle" style="height:1em;"/>     |	⊥
-| monad	     | monad                              | H                                                                           | <img src="/img/monad.png" alt="monad" style="height:1em;"/>
+| monad	     | monad                              | <p title="diagram looks like a Hydrogen Atom">H</p>                         | <img src="/img/monad.png" alt="monad" style="height:1em;"/>
 | inequality | triangle inequality                | ≠                                                                           | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>
