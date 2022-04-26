@@ -1,4 +1,4 @@
-# Prelude
+# Tensorflow Prelude
 
 | name       | descriptive name                   |	denotation    | definition
 |------------|------------------------------------|---------------|--------------------------
