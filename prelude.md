@@ -1,3 +1,5 @@
+# Prelude
+
 | name       | descriptive name                   |	denotation    | definition
 |------------|------------------------------------|---------------|--------------------------
 | black      | self                               | <img src="/img/black_circle.png" title="black circle" style="height:1em;"/>   | a
@@ -22,3 +24,6 @@
 | grey	     | perpendicular                      | <img src="/img/grey_circle.png" title="grey line" style="height:1em;"/>     |	⊥
 | monad	     | monad                              | <span title="diagram looks like a Hydrogen Atom">H</span>                   | <img src="/img/monad.png" alt="monad" style="height:1em;"/>
 | inequality | triangle inequality                | <span title="diagram expresses {forall a,b,c. a + b ≥ c} irrespective of dimensionality">≠</span>                          | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>
+
+# Notes
+- triangle_inequality.png: note the usage of black in both the object and functor position
