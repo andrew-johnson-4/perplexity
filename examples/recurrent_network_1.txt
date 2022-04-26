@@ -1,4 +1,4 @@
-/* this describes the neural network from a tensorflow cnn example:
+/* this describes the neural network from a tensorflow rnn example:
    https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/recurrent_network.ipynb */
    
 lstm
