@@ -21,4 +21,4 @@
 | grey	     | perpendicular                      | <img src="/img/grey_circle.png" alt="grey circle" style="height:1em;"/>     |	⊥
 | grey	     | perpendicular                      | <img src="/img/grey_circle.png" alt="grey circle" style="height:1em;"/>     |	⊥
 | monad	     | monad                              | <span title="diagram looks like a Hydrogen Atom">H</span>                   | <img src="/img/monad.png" alt="monad" style="height:1em;"/>
-| inequality | triangle inequality                | ≠                                                                           | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>
+| inequality | triangle inequality                | <span title="diagram expresses a + b ≥ c">≠</span>                          | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>
