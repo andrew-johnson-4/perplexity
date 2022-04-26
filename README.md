@@ -15,3 +15,6 @@ For example, a diagram "helpful.png" may be referred to as "helpful" in other te
 
 # Prelude
 The Perplexity 😵 language includes an *[optional prelude](/prelude.md)* that defines common neural network concepts.
+
+# Why?
+UML is not information dense enough and often leaves out important details. Mathematical Notation is too information dense and often repeats itself.
