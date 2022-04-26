@@ -7,7 +7,7 @@
 | yellow     | join                               | <img src="/img/yellow_circle.png" title="yellow circle" style="height:1em;"/> |	let a: A; let b: A
 | yellow     | join                               | <img src="/img/yellow_circle.png" title="yellow line" style="height:1em;"/> |	let f: A->C; let f: B->C
 | orange     | split                              | <img src="/img/orange_circle.png" title="orange circle" style="height:1em;"/> |	let a: A; let a: B
-| orange     | split                              | <img src="/img/orange_circle.png" tile="orange line" style="height:1em;"/> |	let f: A->B; let f: A->C
+| orange     | split                              | <img src="/img/orange_circle.png" title="orange line" style="height:1em;"/> |	let f: A->B; let f: A->C
 | red        | more                               | <img src="/img/red_circle.png" title="red circle" style="height:1em;"/>       |	≥
 | red        | more                               | <img src="/img/red_circle.png" title="red line" style="height:1em;"/>       |	≥
 | blue       | less                               | <img src="/img/blue_circle.png" title="blue circle" style="height:1em;"/>     |	≤
