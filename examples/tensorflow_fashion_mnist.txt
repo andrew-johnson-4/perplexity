@@ -1,0 +1,6 @@
+/* this describes the neural network from the tensorflow example:
+   https://www.tensorflow.org/tutorials/keras/classification */
+
+flatten : [28][28]
+dense : [128] + relu
+dense : [10]
