@@ -30,5 +30,5 @@
 
 # Notes
 - Circles are objects with an associated semantic.
-- Lines define the relation between two objects. One of many such associated semantics could be the directionality of the line.
+- Lines define a relation between two objects. One of many such associated semantics could be the directionality of the line.
 - triangle_inequality.png: note the usage of black in both the object and functor position
