@@ -29,4 +29,5 @@
 [Tensorflow Prelude](/tensorflow_prelude.md)
 
 # Notes
+- Lines represent a semantic that defines the relation between two objects. One of many such semantics could be the directionally of the line.
 - triangle_inequality.png: note the usage of black in both the object and functor position
