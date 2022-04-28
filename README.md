@@ -26,7 +26,7 @@ UML is not information dense enough and often leaves out important details. Math
 2. What prelude do you want to use?
 > A prelude will include some terms that you then don't need to define again yourself. Each prelude defines its own ranks, kinds, types, values etc. Please consider using a prelude.
 
-# Prelude
+# List of Preludes
 Preludes are optional-ish.
 - [Categorical Prelude](/prelude.md)
 - [TensorFlow Prelude](/tensorflow_prelude.md)
