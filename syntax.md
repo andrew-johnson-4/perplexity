@@ -13,3 +13,6 @@ Beyond those basic four contexts of meaning, everything else can be defined ad-h
 # Visual Syntax
 
 The visual syntax is restricted to colored lines and circles with possible notation associated with each.
+
+# Notes
+- Ranks are inhabited by type systems. Kinds are inhabited by judgements. Types are inhabited by terms. Values are inhabited by atoms.
