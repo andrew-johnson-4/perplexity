@@ -10,12 +10,14 @@ Beyond those basic four contexts of meaning, everything else can be defined ad-h
 | <img src="/img/red_line.png" title="red line" style="height:1em;"/>             |	B     | b    | 2
 | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>  | A->B  | a(b) | {(1,2),(3,4)}
 
+- *Ranks* are inhabited by algebras.
+- *Kinds* are inhabited by judgements.
+- *Types* are inhabited by terms.
+- *Values* are inhabited by constants.
+
 # Visual Syntax
 
 The visual syntax is restricted to colored lines and circles with possible notation associated with each.
 
-# Notes
-- Ranks are inhabited by algebras.
-- Kinds are inhabited by judgements.
-- Types are inhabited by terms.
-- Values are inhabited by constants.
+- *Circles* are objects with an associated semantic.
+- *Lines* define a relation between two objects. One of many such associated semantics could be the directionality of the line.
