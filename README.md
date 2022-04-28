@@ -28,5 +28,5 @@ UML is not information dense enough and often leaves out important details. Math
 
 # List of Preludes
 Preludes are optional-ish.
-- [Categorical Prelude](/prelude.md)
+- [Categorical Prelude](/categorical_prelude.md)
 - [TensorFlow Prelude](/tensorflow_prelude.md)
