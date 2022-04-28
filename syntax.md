@@ -15,4 +15,7 @@ Beyond those basic four contexts of meaning, everything else can be defined ad-h
 The visual syntax is restricted to colored lines and circles with possible notation associated with each.
 
 # Notes
-- Ranks are inhabited by algebras. Kinds are inhabited by judgements. Types are inhabited by terms. Values are inhabited by constants.
+- Ranks are inhabited by algebras.
+- Kinds are inhabited by judgements.
+- Types are inhabited by terms.
+- Values are inhabited by constants.
