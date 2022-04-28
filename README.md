@@ -17,4 +17,14 @@ For example, a diagram "helpful.png" may be referred to as "helpful" in other te
 The Perplexity 😵 language includes an *[optional prelude](/prelude.md)* that defines common neural network concepts.
 
 # Why?
-UML is not information dense enough and often leaves out important details. Mathematical Notation is too information dense and often repeats itself. Perplexity 😵 is created specifically to model Neural Networks and cuts a lot of corners by [specializing](/checklist.md) itself for this use-case.
+UML is not information dense enough and often leaves out important details. Mathematical Notation is too information dense and often repeats itself. Perplexity 😵 is created specifically to model Neural Networks and cuts a lot of corners by specializing itself for this use-case.
+
+# Checklist for Documenting a Model
+
+1. How many languages/algebras are you going to use in documentation?
+> This determines the rank of your model. It is recommended to use different colored lines and circles
+> when swapping between languages.
+> For example, if you just want to document a TensorFlow model, then you only need Python and your model's rank will be 1.
+
+2. What prelude do you want to use?
+> A prelude will include some terms that you then don't need to define again yourself. Each prelude defines its own ranks, kinds, types, values etc. Please consider using a prelude.
