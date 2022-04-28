@@ -26,6 +26,4 @@
 | inequality | triangle inequality                | <span title="diagram expresses {forall a,b,c. a + b ≥ c} irrespective of dimensionality">≠</span>                          | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>
 
 # Notes
-- Circles are objects with an associated semantic.
-- Lines define a relation between two objects. One of many such associated semantics could be the directionality of the line.
 - triangle_inequality.png: note the usage of black in both the object and functor position
