@@ -13,9 +13,6 @@ The textual language consists of Typed Lambda Calculus expressions.
 Any file, textual or visual, defines a substitution rule according to its filename.
 For example, a diagram "helpful.png" may be referred to as "helpful" in other textual language documentation.
 
-# Prelude
-The Perplexity 😵 language includes an *[optional prelude](/prelude.md)* that defines common neural network concepts.
-
 # Why?
 UML is not information dense enough and often leaves out important details. Mathematical Notation is too information dense and often repeats itself. Perplexity 😵 is created specifically to model Neural Networks and cuts a lot of corners by specializing itself for this use-case.
 
@@ -28,3 +25,8 @@ UML is not information dense enough and often leaves out important details. Math
 
 2. What prelude do you want to use?
 > A prelude will include some terms that you then don't need to define again yourself. Each prelude defines its own ranks, kinds, types, values etc. Please consider using a prelude.
+
+# Prelude
+Preludes are optional-ish.
+- [Categorical Prelude](/prelude.md)
+- [TensorFlow Prelude](/tensorflow_prelude.md)
