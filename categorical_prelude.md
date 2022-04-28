@@ -1,4 +1,4 @@
-# Prelude
+# Categorical Prelude
 
 | name       | descriptive name                   |	denotation    | definition
 |------------|------------------------------------|---------------|--------------------------
