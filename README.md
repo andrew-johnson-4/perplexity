@@ -1,6 +1,8 @@
 # Perplexity 😵
 The Perplexity 😵 language is a notational semantic for documenting neural networks through diagrams.
 
+![Perplexity](/img/mnist_perplexity.png) ![Keras Python](/img/mnist_keras_python.png)
+
 # Scope
 This visual language was created to help document neural networks.
 The language may not be suitable to formally describe all characteristics of all possible neural network configurations.
