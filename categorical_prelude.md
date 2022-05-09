@@ -33,7 +33,7 @@
 | <img src="/img/white_circle.png" style="height:1em;"/> | Metric | perplexity | (1,2,(3,4),5) | Metrics are the natural units of Meta Categories. (1,(2,3)) > (1,∞,4) > (1,∞).
 | <img src="/img/yellow_line.png" style="height:1em;"/> | (Term,Metric) -> Term | minimize | minimize(term,perplexity) | Objective Functions are the natural units of Join Categories.
 | <img src="/img/yellow_line.png" style="height:1em;"/> | (Term,Metric) -> Term | maximize | maximize(term,perplexity) |
-| <img src="/img/orange_line.png" style="height:1em;"/> | ∀ A,B. A -> B = B -> A | ∀ a,b. a(b) = b(a) | = | Equations are the natural units of Split Categories
+| <img src="/img/orange_line.png" style="height:1em;"/> | ∀ A,B. A->B = B->A | ∀ a,b. a(b) = b(a) | = | Equations are the natural units of Split Categories
 
 # Notes
 - ≤ ≥ + - || ⊥: These categories exist to describe soundness holes. A soundness hole occurs when you can prove both True and False. Minimally, to eliminate a soundness hole, a prelude must somehow prune either all True or all False constructions from each Judgement.
