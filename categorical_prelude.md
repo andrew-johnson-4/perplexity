@@ -30,7 +30,7 @@
 |------|------|------|-------|-------
 | <img src="/img/monad.png" style="height:1em;"/> | 1 | model | a | This is the rank 1 unit diagram.
 | <img src="/img/observe.png" style="height:1em;"/> | 2 | observe | : | This is a rank 2 diagram describing the relations and affinities of the rank 1 unit diagram.
-| <img src="/img/white_circle.png" style="height:1em;"/> | Metric | perplexity | (1,2,(3,4),5) | Metrics are the natural units of Meta Categories. (1,(2,3)) > (1,∞).
+| <img src="/img/white_circle.png" style="height:1em;"/> | Metric | perplexity | (1,2,(3,4),5) | Metrics are the natural units of Meta Categories. (1,(2,3)) > (1,∞,4) > (1,∞).
 | <img src="/img/yellow_line.png" style="height:1em;"/> | (Term,Metric) -> Term | minimize | minimize(term,perplexity) | Objective Functions are the natural units of Join Categories.
 | <img src="/img/yellow_line.png" style="height:1em;"/> | (Term,Metric) -> Term | maximize | maximize(term,perplexity) |
 
