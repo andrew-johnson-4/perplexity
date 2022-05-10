@@ -28,7 +28,7 @@
 # Terms
 | rank | kind | type | value | notes
 |------|------|------|-------|-------
-| <img src="/img/monad.png" style="height:1em;"/> | 1 | model | myFancyDomainModel | This is the rank 1 unit diagram. Models are the natural units of Algebraic Categories.
+| <img src="/img/monad.png" style="height:1em;"/> | 1 | model | myFancyDomainModel | Models are the natural units of Algebraic Categories.
 | <img src="/img/white_circle.png" style="height:1em;"/> | Metric | perplexity | (1,2,(3,4),5) | Metrics are the natural units of Meta Categories. (1,(2,3)) > (1,∞,4) > (1,∞).
 | <img src="/img/yellow_line.png" style="height:1em;"/> | (Term,Metric) -> Term | minimize | minimize(term,perplexity) | Objective Functions are the natural units of Join Categories.
 | <img src="/img/orange_line.png" style="height:1em;"/> | ∀ A,B. A->B = B->A | ∀ a,b. a(b) = b(a) | = | Equations are the natural units of Split Categories.
