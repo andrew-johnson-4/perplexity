@@ -33,6 +33,7 @@
 | <img src="/img/yellow_line.png" style="height:1em;"/> | (Term,Metric) -> Term | minimize | minimize(term,perplexity) | Objective Functions are the natural units of Join Categories.
 | <img src="/img/orange_line.png" style="height:1em;"/> | ∀ A,B. A->B = B->A | ∀ a,b. a(b) = b(a) | = | Equations are the natural units of Split Categories.
 | <img src="/img/blue_line.png" style="height:1em;"/> | SoundnessHole | divergent | λa. a a | Soundness Holes are units of More Categories.
+| <img src="/img/red_line.png" style="height:1em;"/> | SoundnessExceptionHandler | not divergent | ... | Subsets of divergent languages that do not diverge can be sound. Soundness "exception handlers" are units of Less Categories.
 
 # Notes
 - ≤ ≥ + - || ⊥: These categories exist to describe soundness holes. A soundness hole occurs when you can prove both True and False. Minimally, to eliminate a soundness hole, a prelude must somehow prune either all True or all False constructions from each Judgement.
