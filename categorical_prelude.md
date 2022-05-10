@@ -40,7 +40,6 @@
 
 # Notes
 - ≤ ≥ + - || ⊥: These categories exist to describe soundness holes. A soundness hole occurs when you can prove both True and False. Minimally, to eliminate a soundness hole, a prelude must somehow prune either all True or all False constructions from each Judgement.
-- triangle_inequality.png: note the usage of black in both the object and functor position.
 
 # References
 - [Categorial Foundations of Mathematics](https://ncatlab.org/nlab/show/foundation%20of%20mathematics)
