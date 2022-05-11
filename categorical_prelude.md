@@ -36,6 +36,7 @@
 | <img src="/img/red_line.png" style="height:1em;"/> | SoundnessExceptionHandler | not divergent | ... | Subsets of divergent languages that do not diverge can be sound. Soundness "exception handlers" are units of Less Categories.
 | <img src="/img/green_line.png" style="height:1em;"/> | TermTransformation | α-conversion | (λx.M[x]) → (λy.M[y]) | Rename bound variables in the expression.
 | <img src="/img/purple_line.png" style="height:1em;"/> | TermTransformation | β-reduction | ((λx.M) E) → (M[x := E])	 | Replace bound variables with the argument expression in the body of the abstraction.
+| <img src="/img/pink_line.png" style="height:1em;"/> | TypeReduction | T | <img src="/img/simply_typed.svg" style="height:5em;"/>	 | The Type system is strongly normalizing.
 
 
 # Notes
