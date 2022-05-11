@@ -29,7 +29,7 @@ This prelude is derived from a categorical view of the simply typed lambda calcu
 | rank | kind | type | value | notes
 |------|------|------|-------|-------
 | <img src="/img/black_line.png" style="height:1em;"/> | Term | term | myFancyDomainModel | Terms are the natural units of Algebraic Categories.
-| <img src="/img/white_line.png" style="height:1em;"/> | Metric | perplexity | (1,2,(3,4),5) | Metrics are the natural units of Meta Categories. (1,(2,3)) > (1,∞,4) > (1,∞).
+| <img src="/img/white_line.png" style="height:1em;"/> | Metric | perplexity | (1,2,(3,4),5) | Metrics are the natural units of Type Categories. (1,(2,3)) > (1,∞,4) > (1,∞).
 | <img src="/img/yellow_line.png" style="height:1em;"/> | (Term,Metric) -> Term | minimize | minimize(term,perplexity) | Objective Functions are the natural units of Join Categories.
 | <img src="/img/orange_line.png" style="height:1em;"/> | ∀ A,B. A->B = B->A | ∀ a,b. a(b) = b(a) | = | Equations are the natural units of Split Categories.
 | <img src="/img/blue_line.png" style="height:1em;"/> | SoundnessHole | divergent | λa. a a | Soundness Holes are units of More Categories.
