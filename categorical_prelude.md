@@ -22,8 +22,6 @@
 | pink	     | parallel                           | <img src="/img/pink_line.png" title="pink line" style="height:1em;"/>     |	\|\|
 | grey	     | perpendicular                      | <img src="/img/grey_circle.png" title="grey circle" style="height:1em;"/>     |	⊥
 | grey	     | perpendicular                      | <img src="/img/grey_line.png" title="grey line" style="height:1em;"/>     |	⊥
-| monad	     | monad                              | <span title="diagram looks like a Hydrogen Atom">H</span>                   | <img src="/img/monad.png" alt="monad" style="height:1em;"/>
-| inequality | triangle inequality                | <span title="diagram expresses {∀ a,b,c. a + b ≥ c} irrespective of dimensionality">≠</span>                          | <img src="/img/triangle_inequality.png" alt="inequality" style="height:1em;"/>
 
 # Terms
 | rank | kind | type | value | notes
