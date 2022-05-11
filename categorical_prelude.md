@@ -1,3 +1,5 @@
+This prelude is derived from a categorical view of the simply typed lambda calculus.
+
 # Categorical Prelude
 
 | name       | descriptive name                   |	denotation    | definition
