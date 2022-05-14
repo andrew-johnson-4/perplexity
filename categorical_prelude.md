@@ -1,4 +1,4 @@
-This prelude is derived from a categorical view of the simply typed lambda calculus.
+This prelude is derived from a categorical view of typed lambda calculus.
 
 # Categorical Prelude
 
