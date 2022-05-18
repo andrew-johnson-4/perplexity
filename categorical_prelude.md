@@ -44,4 +44,4 @@ This prelude is derived from [a categorical view of typed lambda calculus](https
 - ≤ ≥ + - || ⊥: These categories exist to describe soundness holes. A soundness hole occurs when you can prove both True and False or when the type system refuses to normalize. Minimally, to eliminate a soundness hole, a prelude must somehow prune either all True or all False constructions from each Judgement.
 
 # References
-- [Categorial Foundations of Mathematics](https://ncatlab.org/nlab/show/foundation%20of%20mathematics)
+- [Categorical Foundations of Mathematics](https://ncatlab.org/nlab/show/foundation%20of%20mathematics)
