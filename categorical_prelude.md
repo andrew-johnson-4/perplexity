@@ -45,3 +45,4 @@ This prelude is derived from [a categorical view of typed lambda calculus](https
 
 # References
 - [Categorical Foundations of Mathematics](https://ncatlab.org/nlab/show/foundation%20of%20mathematics)
+- [A Two-Category perspective of Arbitrary Typed Lambda Calculus](https://www.kurims.kyoto-u.ac.jp/~hassei/papers/ctcs95.pdf)
