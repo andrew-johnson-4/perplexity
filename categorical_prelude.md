@@ -37,7 +37,7 @@ This prelude is derived from [a categorical view of typed lambda calculus](https
 | <img src="/img/green_line.png" style="height:1em;"/> | TermTransformation | α-conversion,η-reduction,... | (λx.M[x]) → (λy.M[y]) | Any reductions/normalizations of equivalent terms that do not effect a change in the type signature are grouped into Down Categories.
 | <img src="/img/purple_line.png" style="height:1em;"/> | TermTransformation | β-reduction | (λx.t)(u) → βt[u/x]	 | Replacing bound variables with the argument expression in the body of an abstraction is the basis of Up Categories. β-reduction is exclusively allowed to change type signatures of terms to account for things like polymorphism.
 | <img src="/img/pink_line.png" style="height:1em;"/> | TypeReduction | T | <img src="/img/simply_typed1.svg" style="height:1em;"/>	<br/> <img src="/img/simply_typed2.svg" style="height:1em;"/> <br/> <img src="/img/simply_typed3.svg" style="height:1em;"/> <br/> <img src="/img/simply_typed4.svg" style="height:1em;"/> | The Type system is strongly normalizing. Type unification and reduction is the basis of Parallel Categories.
-| <img src="/img/grey_line.png" style="height:1em;"/> | MetaUnsound | panic | 0xDEADBEEF | False has been proven.
+| <img src="/img/grey_line.png" style="height:1em;"/> | MetaUnsound | panic | absurd | False has been proven.
 
 
 # Notes
