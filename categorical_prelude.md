@@ -29,7 +29,7 @@ This prelude is derived from [a categorical view of typed lambda calculus](https
 | rank | kind | type | value | notes
 |------|------|------|-------|-------
 | <img src="/andrew-johnson-4/perplexity/raw/main/img/black_line.png" style="height:1em;"/> | Term | term | myFancyDomainModel | Terms are natural units of Category Algebras.
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/white_line.png" style="height:1em;"/> | Metric | perplexity | (1,2,(3,4),5) | Metrics are the natural units of Type Categories. (1,(2,3)) > (1,∞,4) > (1,∞).
+| <img src="/andrew-johnson-4/perplexity/raw/main/img/white_line.png" style="height:1em;"/> | Metric | perplexity | (1,2,(3,4),5) | Metrics are natural units of Type Categories. (1,(2,3)) > (1,∞,4) > (1,∞).
 | <img src="/andrew-johnson-4/perplexity/raw/main/img/yellow_line.png" style="height:1em;"/> | (Term,Metric) -> Term | minimize | minimize(term,perplexity) | Objective Functions are natural units of Join Categories. Joins are Equalisers of some other Category.
 | <img src="/andrew-johnson-4/perplexity/raw/main/img/orange_line.png" style="height:1em;"/> | ∀ A,B. A->B = B->A | ∀ a,b. a(b) = b(a) | = | Equations are natural units of Split Categories. Splits are Coequalisers of some other Category.
 | <img src="/andrew-johnson-4/perplexity/raw/main/img/blue_line.png" style="height:1em;"/> | SoundnessHole | divergent | λa. a a | Soundness Holes are units of More Categories.
