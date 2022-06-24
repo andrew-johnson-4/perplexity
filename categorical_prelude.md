@@ -28,16 +28,16 @@ This prelude is derived from [a categorical view of typed lambda calculus](https
 # Terms
 | rank | kind | type | value | notes
 |------|------|------|-------|-------
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/black_line.png" style="height:1em;"/> | Term | term | myFancyDomainModel | Terms are natural units of Category Algebras.
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/white_line.png" style="height:1em;"/> | Metric | perplexity | (1,2,(3,4),5) | Metrics are natural units of Type Categories. (1,(2,3)) > (1,∞,4) > (1,∞).
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/yellow_line.png" style="height:1em;"/> | (Term,Metric) -> Term | minimize | minimize(term,perplexity) | Objective Functions are natural units of Join Categories. Joins are Equalisers of some other Category.
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/orange_line.png" style="height:1em;"/> | ∀ A,B. A->B = B->A | ∀ a,b. a(b) = b(a) | = | Equations are natural units of Split Categories. Splits are Coequalisers of some other Category.
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/blue_line.png" style="height:1em;"/> | SoundnessHole | divergent | λa. a a | Soundness Holes are units of More Categories.
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/red_line.png" style="height:1em;"/> | SoundnessExceptionHandler | not divergent | ... | Subsets of divergent languages that do not diverge can be sound. Soundness "exception handlers" are units of Less Categories.
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/green_line.png" style="height:1em;"/> | TermTransformation | α-conversion,η-reduction,... | (λx.M[x]) → (λy.M[y]) | Any reductions/normalizations of equivalent terms that do not effect a change in the type signature are grouped into Down Categories.
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/purple_line.png" style="height:1em;"/> | TermTransformation | β-reduction | (λx.t)(u) → βt[u/x]	 | Replacing bound variables with the argument expression in the body of an abstraction is the basis of Up Categories. β-reduction is exclusively allowed to introduce changes to the type signatures of terms to account for things like polymorphism.
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/pink_line.png" style="height:1em;"/> | TypeReduction | \|\| | $\pi_1(s:\sigma,t:\tau) = s:\sigma$ <br/> $\pi_2(s:\sigma,t:\tau) = t:\tau$ <br/> $(\pi_1(u:\sigma \times \tau),\pi_2(u:\sigma \times \tau)) = u:\sigma \times \tau$ <br/> $t:1 = ()$ <br/> $\pi_T(\sigma::T+\tau::U) = \sigma::T$| The Type system should be strongly normalizing. Type unification and reduction is the basis of Parallel Categories.
-| <img src="/andrew-johnson-4/perplexity/raw/main/img/grey_line.png" style="height:1em;"/> | MetaUnsound | ⊥ | absurd | False has been proven. Unsound type systems are considered "perpendicular" to good language structure.
+| <img src="/img/black_line.png" style="height:1em;"/> | Term | term | myFancyDomainModel | Terms are natural units of Category Algebras.
+| <img src="/img/white_line.png" style="height:1em;"/> | Metric | perplexity | (1,2,(3,4),5) | Metrics are natural units of Type Categories. (1,(2,3)) > (1,∞,4) > (1,∞).
+| <img src="/img/yellow_line.png" style="height:1em;"/> | (Term,Metric) -> Term | minimize | minimize(term,perplexity) | Objective Functions are natural units of Join Categories. Joins are Equalisers of some other Category.
+| <img src="/img/orange_line.png" style="height:1em;"/> | ∀ A,B. A->B = B->A | ∀ a,b. a(b) = b(a) | = | Equations are natural units of Split Categories. Splits are Coequalisers of some other Category.
+| <img src="/img/blue_line.png" style="height:1em;"/> | SoundnessHole | divergent | λa. a a | Soundness Holes are units of More Categories.
+| <img src="/img/red_line.png" style="height:1em;"/> | SoundnessExceptionHandler | not divergent | ... | Subsets of divergent languages that do not diverge can be sound. Soundness "exception handlers" are units of Less Categories.
+| <img src="/img/green_line.png" style="height:1em;"/> | TermTransformation | α-conversion,η-reduction,... | (λx.M[x]) → (λy.M[y]) | Any reductions/normalizations of equivalent terms that do not effect a change in the type signature are grouped into Down Categories.
+| <img src="/img/purple_line.png" style="height:1em;"/> | TermTransformation | β-reduction | (λx.t)(u) → βt[u/x]	 | Replacing bound variables with the argument expression in the body of an abstraction is the basis of Up Categories. β-reduction is exclusively allowed to introduce changes to the type signatures of terms to account for things like polymorphism.
+| <img src="/img/pink_line.png" style="height:1em;"/> | TypeReduction | \|\| | $\pi_1(s:\sigma,t:\tau) = s:\sigma$ <br/> $\pi_2(s:\sigma,t:\tau) = t:\tau$ <br/> $(\pi_1(u:\sigma \times \tau),\pi_2(u:\sigma \times \tau)) = u:\sigma \times \tau$ <br/> $t:1 = ()$ <br/> $\pi_T(\sigma::T+\tau::U) = \sigma::T$| The Type system should be strongly normalizing. Type unification and reduction is the basis of Parallel Categories.
+| <img src="/img/grey_line.png" style="height:1em;"/> | MetaUnsound | ⊥ | absurd | False has been proven. Unsound type systems are considered "perpendicular" to good language structure.
 
 
 # Notes
