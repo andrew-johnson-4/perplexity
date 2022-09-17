@@ -10,7 +10,7 @@ The language may not be suitable to formally describe all characteristics of all
 # Format
 The Perplexity 😵 language consists of two languages: one [textual](/syntax.md), the other [visual](/syntax.md).
 The visual language consists of two-dimensional images that can be created in Paint or other visual editors.
-The textual language consists of [Typed Lambda Calculus expressions](https://github.com/andrew-johnson-4/LSTS#readme).
+The textual language consists of [Typed Lambda Calculus expressions](https://andrew-johnson-4.github.io/lsts-tutorial/).
 
 Any file, textual or visual, defines a substitution rule according to its filename.
 For example, a diagram "helpful.png" may be referred to as "helpful" in other textual language documentation.
