@@ -1,5 +1,11 @@
 This prelude is derived from [a categorical view of typed lambda calculus](https://ncatlab.org/nlab/show/lambda-calculus).
 
+**Stability**: There have been no semantic changes since Jun 24, 2022.
+This framework has been applied successfully to formally design LSTS and LM.
+This line of thinking has also been useful in quantifying "Truth" of natural language statements.
+Natural Language statements can be considered "Very True" if all colored paths lead to a True judgement.
+Unfortunately the search space of all colored paths is also exponential.
+
 # Categorical Prelude
 
 | name       | descriptive name                   |	denotation    | definition
